@@ -12,3 +12,6 @@ Vi "pakker" data i navnet/objektet. Sae er det nemt at finde alt om Kitty, ved a
 
 print(Kitty.name)
 print(Daniel.grade)
+
+#Opdatering 30. juli
+
